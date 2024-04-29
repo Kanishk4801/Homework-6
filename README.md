@@ -57,6 +57,7 @@ When the user clicks on a bar in the bar chart, draw a Pie chart in the bottom r
 - Load `species.csv` and filter data based on the selected park and classification from the dropdown to dynamically update the pie chart.
 - Calculate pie data from the filtered list using D3's pie layout to show species distribution based on the selected classification.
 - Create a color scale with unique colors for each pie slice to visually differentiate between species categories.
+- Add a title to your pie chart, with the name of the park t=whose bar has been clicked on by the user
 
 ![Pie Chart](https://github.com/Kanishk4801/Homework-6/assets/83276964/0d5c0413-1715-4f37-a245-fcf1b06640b2)
 
